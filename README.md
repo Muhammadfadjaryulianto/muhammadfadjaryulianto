@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Muhammad Fadjar Yulianto 👋
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FadjarYulianto&show_icons=true&theme=radical&hide_border=true" alt="Fadjar's GitHub Stats" />
+</div>
+
 I am a Full Stack Developer and IT Data Analyst passionate about building scalable, reliable, and accessible digital solutions. I blend web development with data science to create impactful products, ensuring strict compliance with industry standards like WCAG 2.2 and Agile methodologies.
 
 ### 🚀 What I'm Currently Working On

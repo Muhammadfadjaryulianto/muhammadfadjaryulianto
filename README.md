@@ -25,11 +25,14 @@ I am a Full Stack Developer and IT Data Analyst passionate about building scalab
 
 ### 🛠️ Tech Stack & Tools
 
-- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS
-- **Backend:** Node.js, Express, Go, PHP
-- **Database & Infrastructure:** MySQL, PostgreSQL, AWS (EC2)
-- **Testing & Workflow:** Cypress, Postman, Git, Scrum/Agile
+- **Frontend:** <img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" /> <img src="{https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white}" /> <img src="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" /> <img src="{https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}" /> <img src="{https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white}" />
+
+- **Backend:** <img src="{https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white}" /><img src="{https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white}" /><img src="{https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white}" />
+
+- **Database & Infrastructure:** <img src="{https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white}" /><img src="{https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white}" /><img src="{https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white}" />
+
+- **Testing & Workflow:** <img src="{https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white}" /><img src="{https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /><img src="{BadgeURLHere}" /> | Git | Scrum/Agile.
 
 ### 📫 Let's Connect!
 
-[LinkedIn](https://www.linkedin.com/in/muhammadfadjaryulianto/) | [Email](mailto:yuliantofadjar0802@gmail.com)
+![https://www.linkedin.com/in/muhammadfadjaryulianto/]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}) ![mailto:yuliantofadjar0802@gmail.com]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}) ![https://wa.me/62895404082610]({https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white})

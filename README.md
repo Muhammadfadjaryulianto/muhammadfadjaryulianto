@@ -21,7 +21,7 @@ I am a Full Stack Developer and IT Data Analyst passionate about building scalab
 
 ### 🚀 What I'm Currently Working On
 
-**Full Stack Ecosystems:** Expanding my expertise in highly scalable architectures using React, Go, and AWS cloud infrastructure.
+**Full Stack Ecosystems:** Expanding my expertise in highly scalable architectures using React, Go, and cloud infrastructure.
 
 ### 🛠️ Tech Stack & Tools
 
